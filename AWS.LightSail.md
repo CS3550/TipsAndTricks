@@ -24,7 +24,7 @@ Wait for the instance to boot
 
 Click on the console button to bring up the browser-based console
 
-![AWS Management Console](img/AWS.LightSail/LightSail_0001s_0002_Layer-6.png)
+![AWS Management Console](img/AWS.LightSail/LightSail_0001s_0001_Layer-7.png)
 
 Use the browser-based console to make changes
 
